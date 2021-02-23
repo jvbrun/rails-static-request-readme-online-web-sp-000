@@ -3,4 +3,3 @@ Rails.application.routes.draw do
   get 'about', to:
   'staticv#about'
 end
-end
